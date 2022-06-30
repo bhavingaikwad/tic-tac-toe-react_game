@@ -11,5 +11,21 @@ root.render(
     <App />
     
   </React.StrictMode>
+  
+  /*
+  
+  <React.StrictMode>
+    <App2 />
+    
+  </React.StrictMode>
+  
+  */
+ /*
+ 
+  <React.StrictMode>
+    <App3 />
+    
+  </React.StrictMode>
+ */
 );
 
